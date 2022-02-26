@@ -1,2 +1,2 @@
-# cncmp
-repo for cncmp
+# cncamp
+repo for cncamp
